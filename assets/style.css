@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+header{
+padding: 5px;
+font-family: Arial, Helvetica, sans-serif;
+background-color: slategray;
+color:black;
+
+}
+.Cool-subtitle {
+    background-color: black;
+    color: white;
+    align-self: self-end;
+}
+
+.About-Me {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
